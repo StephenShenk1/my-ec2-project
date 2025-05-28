@@ -11,5 +11,5 @@ EC2 (running Nginx and serving a custom HTML page)
 
 To use it again, simply run:
 
->>terraform init
->>terraform apply
+terraform init
+terraform apply
